@@ -1,5 +1,6 @@
 {
   "user" : "shroffk",
   "host" : "LPS-164306",
-  "description" : "sim://ramp"
+  "description" : "sim://ramp",
+  "enabled" : false
 }

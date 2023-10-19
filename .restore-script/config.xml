@@ -4,7 +4,7 @@
     <component name="sim">
       <pv name="sim://ramp">
         <description>sim://ramp</description>
-        <enabled>true</enabled>
+        <enabled>false</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
       </pv>
