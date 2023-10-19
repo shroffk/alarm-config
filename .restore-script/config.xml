@@ -22,7 +22,7 @@
     <component name="softIOC">
       <pv name="XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV">
         <description>XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV</description>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
         <latching>true</latching>
         <annunciating>true</annunciating>
       </pv>

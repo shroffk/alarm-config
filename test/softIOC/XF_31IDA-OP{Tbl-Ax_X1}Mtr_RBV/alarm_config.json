@@ -1,5 +1,6 @@
 {
   "user" : "shroffk",
   "host" : "LPS-164306",
-  "description" : "XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV"
+  "description" : "XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV",
+  "enabled" : false
 }
