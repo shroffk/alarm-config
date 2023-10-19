@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config name="Accelerator">
   <component name="test">
+    <component name="sim">
+    </component>
     <component name="softIOC">
       <pv name="XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV">
         <description>XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV</description>
