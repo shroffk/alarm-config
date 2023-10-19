@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config name="Accelerator">
   <component name="test">
-    <pv name="sim://noise">
-      <description>sim://noise</description>
-      <enabled>true</enabled>
-      <latching>true</latching>
-      <annunciating>true</annunciating>
-    </pv>
     <pv name="sim://ramp">
       <description>sim://ramp</description>
       <enabled>true</enabled>
