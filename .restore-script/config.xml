@@ -1,3 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <config name="Accelerator">
+  <component name="test">
+    <pv name="sim://flipflop">
+      <description>sim://flipflop</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
+    <pv name="sim://noise">
+      <description>sim://noise</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
+    <pv name="sim://ramp">
+      <description>sim://ramp</description>
+      <enabled>true</enabled>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
+    </pv>
+    <component name="softIOC">
+      <pv name="XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV">
+        <description>XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV</description>
+        <enabled>false</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+    </component>
+  </component>
 </config>
