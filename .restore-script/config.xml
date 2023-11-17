@@ -3,6 +3,8 @@
   <component name="test">
     <component name="node">
     </component>
+    <component name="node2">
+    </component>
     <component name="sim">
       <pv name="sim://ramp">
         <description>sim://ramp</description>
