@@ -5,6 +5,8 @@
     </component>
     <component name="node2">
     </component>
+    <component name="node3">
+    </component>
     <component name="sim">
       <pv name="sim://ramp">
         <description>sim://ramp</description>
