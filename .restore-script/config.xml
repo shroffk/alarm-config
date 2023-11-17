@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config name="Accelerator">
+  <component name="test">
+    <component name="node">
+    </component>
+    <component name="sim">
+      <pv name="sim://ramp">
+        <description>sim://ramp</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+    </component>
+    <component name="softIOC">
+      <pv name="XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV">
+        <description>XF:31IDA-OP{Tbl-Ax:X1}Mtr:RBV</description>
+        <enabled>true</enabled>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
+      </pv>
+    </component>
+  </component>
+</config>
